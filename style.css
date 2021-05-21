@@ -1,0 +1,137 @@
+.font{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.heading{
+    color: lightslategray;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    
+}
+.logo{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: #212f3d;
+     
+}
+.butn{
+    display: flex;
+    justify-content: center;
+    width: 10%;
+}
+.table{
+    color: gray;
+}
+a{
+     color: black;
+     text-decoration: underline;
+       
+}
+.btn-button{
+    background: blue;
+    padding: 10px 60px;
+    border-radius: 10px;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.container thead tr th{
+    padding-left: 80px;
+}
+.container tbody tr td{
+    padding-left: 80px;
+}
+.first{
+    line-height: 35px;
+}
+#btn1 {
+  border: 2px solid blue;
+  padding: 4px 30px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  color: blue;
+  
+}
+#btn2{
+  border: 2px solid blue;
+  padding: 4px 30px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  color: blue;
+  margin-left: -5px;
+}
+
+#btn3{
+  border: 2px solid blue;
+  padding: 4px 30px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  color: blue;
+
+  
+}
+#btn4{
+  border: 2px solid blue;
+  padding: 4px 30px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  color: blue;
+  margin-left: -5px;
+  
+}
+#btn5{
+  border: 2px solid blue;
+  padding: 4px 30px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  color: blue;
+  
+}
+#btn6{
+  border: 2px solid blue;
+  padding: 4px 30px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  color: blue;
+  margin-left: -5px;
+  
+}
+#btn7{
+  border: 2px solid blue;
+  padding: 4px 30px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  color: blue;
+  
+}
+#btn8{
+  border: 2px solid blue;
+  padding: 4px 30px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  color: blue;
+  margin-left: -5px;
+  
+}
+#btn9{
+  border: 2px solid blue;
+  padding: 4px 30px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  color: blue;
+  
+}
+#btn10{
+  border: 2px solid blue;
+  padding: 4px 30px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  color: blue;
+  margin-left: -5px;
+  
+}
